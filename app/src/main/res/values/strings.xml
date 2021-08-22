@@ -9,4 +9,107 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="tryAgain">try again</string>
+    <string name="goodJob">Good Job. You got an Action Point!</string>
+
+    <string name="information">information</string>
+    <string name="action">Do action</string>
+
+    <string name="needhelp">Need your help!</string>
+    <string name="needhelp2">The city is in danger because of the pollution and global warming. Solve the quiz and save the city.</string>
+    <string name="congratulation">Congratulation!</string>
+    <string name="congratulation2">Your concern for the environment has helped protect the environment and save the city.</string>
+    <string name="informationCity">City information</string>
+    <string name="informationCity2">Too many private cars are causing heavy pollution and traffic jams. The introduction of public transport is urgently needed.(need 3 action points)</string>
+    <string name="informationGenerator">Plant information</string>
+    <string name="informationGenerator2">The emission of greenhouse gases and soot from fossil fuel power plants is serious. There is an urgent need to replace it with a new and renewable energy power plant.(need 3 action points)</string>
+    <string name="informationForest">Forest information</string>
+    <string name="informationForest2">Forests have been damaged by excessive logging. There is an urgent need to restore the forest.(need 3 action points)</string>
+    <string name="need3ap">It needs 3 action points!</string>
+
+    <string-array name="quiz">
+        <item>Which of the following is not correct with new renewable energy?</item>
+        <item>Which of the following is not correct with components of greenhouse gases?</item>
+        <item>The cause of climate change is global economic growth and population growth.</item>
+        <item>The overall global temperature has increased by about ㅡ℃ over the past 100 years.</item>
+        <item>Which of the following is correct with a major cause of the greenhouse effect?</item>
+        <item>Climate change is a phenomenon in which the average temperature of the Earth changes.</item>
+        <item>The nature herbivore animal population and groups are not affected by the increase in carbon dioxide.</item>
+        <item>Which of the following is not correct with natural causes of climate change?</item>
+        <item>Too much aerosol increases the temperature of the atmosphere.</item>
+        <item>Which of the following is a major cause of the increase in carbon dioxide?</item>
+        <item>Which of the following techniques is used to extract carbon dioxide before it is discharged into the atmosphere and store it in liquid form under pressure?</item>
+    </string-array>
+
+    <string-array name="answer1">
+        <item>solar energy</item>
+        <item>methane</item>
+        <item>O</item>
+        <item>1</item>
+        <item>Oxygen</item>
+        <item>O</item>
+        <item>O</item>
+        <item>Changes in revolution orbit</item>
+        <item>O</item>
+        <item>Increased meat consumption</item>
+        <item>CCS</item>
+    </string-array>
+
+    <string-array name="answer2">
+        <item>Geothermal energy</item>
+        <item>nitrogen</item>
+        <item>X</item>
+        <item>2</item>
+        <item>nitrogen</item>
+        <item>X</item>
+        <item>X</item>
+        <item>the eruption of a volcano</item>
+        <item>X</item>
+        <item>use of fossil fuels</item>
+        <item>CNS</item>
+    </string-array>
+
+    <string-array name="answer3">
+        <item>nuclear energy</item>
+        <item>carbon dioxide</item>
+        <item></item>
+        <item>3</item>
+        <item>carbon dioxide</item>
+        <item></item>
+        <item></item>
+        <item>seawater\'s transition</item>
+        <item></item>
+        <item>Carbon dioxide emitted from cars</item>
+        <item>COS</item>
+    </string-array>
+
+    <string-array name="answer4">
+        <item>ocean energy</item>
+        <item>chlorofluorocarbons</item>
+        <item></item>
+        <item>5</item>
+        <item>Silicon</item>
+        <item></item>
+        <item></item>
+        <item>forest destruction</item>
+        <item></item>
+        <item>emitted from human\'s breath</item>
+        <item>CSS</item>
+    </string-array>
+
+    <string-array name="answer">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
 </resources>
